@@ -1,4 +1,4 @@
-package ViolatingISP;
+package isp.ViolatingISP;
 
 public interface SmartHomeDevice {
     void turnOn();

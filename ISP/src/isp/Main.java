@@ -1,7 +1,7 @@
 package isp;
-import ViolatingISP.SmartLight;
-import ViolatingISP.SmartFan;
-import FollowingISP.SmartSecuritySystem;
+import isp.FollowingISP.SmartSecuritySystem;
+import isp.ViolatingISP.SmartFan;
+import isp.ViolatingISP.SmartLight;
 
 import java.sql.SQLOutput;
 

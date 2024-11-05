@@ -1,4 +1,4 @@
-package ViolatingISP;
+package isp.ViolatingISP;
 
 public class SmartLight implements SmartHomeDevice {
     @Override

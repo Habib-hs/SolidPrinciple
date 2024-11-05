@@ -1,4 +1,6 @@
-package FollowingSRP;
+package srp.FollowingSRP;
+import srp.FollowingSRP.EmailService;
+import srp.FollowingSRP.User;
 
 public class AuthenticationService {
     private EmailService emailService;

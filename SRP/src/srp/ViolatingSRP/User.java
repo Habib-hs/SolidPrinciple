@@ -1,4 +1,4 @@
-package ViolatingSRP;
+package srp.ViolatingSRP;
 
 public class User {
     private String username;

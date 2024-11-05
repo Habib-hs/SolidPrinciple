@@ -1,4 +1,4 @@
-package FollowingISP;
+package isp.FollowingISP;
 
 public class SmartSecuritySystem implements Switchable, SecurityControl {
     @Override

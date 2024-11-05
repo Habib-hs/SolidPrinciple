@@ -1,4 +1,4 @@
-package FollowingISP;
+package isp.FollowingISP;
 
 public class SmartLight implements Switchable, LightControl {
     @Override

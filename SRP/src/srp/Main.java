@@ -1,6 +1,7 @@
-import ViolatingSRP.User;
-import FollowingSRP.AuthenticationService;
-import FollowingSRP.EmailService;
+package srp;
+import srp.FollowingSRP.AuthenticationService;
+import srp.FollowingSRP.EmailService;
+import srp.ViolatingSRP.User;
 
 public class Main {
     public static void main(String[] args) {
@@ -13,7 +14,7 @@ public class Main {
         // Demonstrating Following SRP
         System.out.println();
         System.out.println("Demonstrating Following SRP");
-        FollowingSRP.User user2 = new FollowingSRP.User("jane_doe", "password456"); // Use fully qualified name here
+        srp.FollowingSRP.User user2 = new srp.FollowingSRP.User("jane_doe", "password456"); // Use fully qualified name here
         EmailService emailService = new EmailService();
         AuthenticationService authService = new AuthenticationService(emailService);
         boolean loggedIn2 = authService.login(user2, "jane_doe", "password456");

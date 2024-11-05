@@ -1,4 +1,5 @@
-package FollowingSRP;
+package srp.FollowingSRP;
+import srp.FollowingSRP.User;
 
 public class EmailService {
     public void sendWelcomeEmail(User user) {

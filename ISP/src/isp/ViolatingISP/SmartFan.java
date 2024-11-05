@@ -1,4 +1,4 @@
-package ViolatingISP;
+package isp.ViolatingISP;
 
 public class SmartFan implements SmartHomeDevice {
     @Override

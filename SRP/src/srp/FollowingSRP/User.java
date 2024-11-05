@@ -1,4 +1,4 @@
-package FollowingSRP;
+package srp.FollowingSRP;
 
 public class User {
     private String username;
