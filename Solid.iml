@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/ISP/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/OCP/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SRP/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LSP/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
