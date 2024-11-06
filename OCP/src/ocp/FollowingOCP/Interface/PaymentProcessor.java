@@ -1,0 +1,5 @@
+package ocp.FollowingOCP.Interface;
+
+public interface PaymentProcessor {
+    void processPayment(double amount);
+}
